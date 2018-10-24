@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/HANJINGROUP/hj-rlinspc/master/binary/rlinspc.ipa</string>
+					<string>https://raw.githubusercontent.com/HANJINGROUP/hj-rlinspc/ios/binary/rlinspc.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
